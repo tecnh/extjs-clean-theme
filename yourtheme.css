@@ -17,8 +17,8 @@
   background-color: #eee;
   border-color:#a3bad9;
   color:#222;
-  font-weight:normal;
-  font-size:11px;
+  /* font-weight:normal; */
+  /* font-size:11px; */
   /*   font-family:tahoma,verdana,helvetica,arial,sans-serif; */
 }
 
@@ -75,7 +75,7 @@
 }
 
 .loading-indicator {
-  font-size:11px;
+  /* font-size:11px; */
   background-image: url(../images/default/grid/loading.gif);
 }
 
@@ -112,8 +112,8 @@ ul.x-tab-strip-bottom{
 }
 
 .x-tab-strip span.x-tab-strip-text {
-  font-weight:normal;
-  font-size:11px;
+/* font-weight:normal;*/
+  /* font-size:11px; */
   /*   font-family:tahoma,verdana,helvetica,arial,sans-serif; */
   color:#416aa3;
 }
@@ -124,7 +124,7 @@ ul.x-tab-strip-bottom{
 
 .x-tab-strip-active span.x-tab-strip-text {
   color:#15428b;
-  font-weight:bold;
+  /* font-weight:bold; */
 }
 
 .x-tab-strip-disabled .x-tabs-text {
@@ -207,7 +207,7 @@ ul.x-tab-strip-bottom{
 }
 
 .x-form-field {
-  font-weight:normal;
+  /* font-weight:normal; */
 /*  font-size:12px; */
   /*   font-family:tahoma,verdana,helvetica,arial,sans-serif; */
 }
@@ -288,21 +288,21 @@ ul.x-tab-strip-bottom{
 }
 
 .x-form-grow-sizer {
-  font-weight:normal;
+  /* font-weight:normal; */
 /*  font-size:12px; */
   /*   font-family:tahoma,verdana,helvetica,arial,sans-serif; */
 }
 
 .x-form-item {
-  font-weight:normal;
+ /*  font-weight:normal; */
 /*  font-size:12px; */
   /*   font-family:tahoma,verdana,helvetica,arial,sans-serif; */
 }
 
 .x-form-invalid-msg {
   color:#c0272b;
-  font-weight:normal;
-  font-size:11px;
+  /* font-weight:normal; */
+  /* font-size:11px; */
   /*   font-family:tahoma,verdana,helvetica,arial,sans-serif; */
   background-image:url(../images/default/shared/warning.gif);
 }
@@ -312,14 +312,14 @@ ul.x-tab-strip-bottom{
 }
 
 .x-small-editor .x-form-field {
-  font-weight:normal;
-  font-size:11px;
+  /* font-weight:normal; */
+  /* font-size:11px; */
   /*   font-family:tahoma,verdana,helvetica,arial,sans-serif; */
 }
 
 .ext-webkit .x-small-editor .x-form-field {
-  font-weight:normal;
-  font-size:11px;
+  /* font-weight:normal; */
+  /* font-size:11px; */
   /*   font-family:tahoma,verdana,helvetica,arial,sans-serif; */
 }
 
@@ -332,27 +332,28 @@ ul.x-tab-strip-bottom{
 }
 
 .x-fieldset legend {
-  font-weight:bold;
-  font-size:11px;
+  /* font-weight:bold; */
+  /* font-size:11px; */
   /*   font-family:tahoma,verdana,helvetica,arial,sans-serif; */
   color:#15428b;
 }
+
 .x-btn {
-  font-weight:normal;
-  font-size:11px;
+  /* font-weight:normal; */
+  /* font-size:11px; */
   /*   font-family:tahoma,verdana,helvetica,arial,sans-serif; */
 }
 
 .x-btn button {
-  font-weight:normal;
-  font-size:11px;
+  /* font-weight:normal; */
+  /* font-size:11px; */
   /*   font-family:tahoma,verdana,helvetica,arial,sans-serif; */
   color:#333;
 }
 
 .x-btn em {
-  font-style:normal;
-  font-weight:normal;
+  /* font-style:normal; */
+  /* font-weight:normal; */
 }
 
 .x-btn-tl, .x-btn-tr, .x-btn-tc, .x-btn-ml, .x-btn-mr, .x-btn-mc, .x-btn-bl, .x-btn-br, .x-btn-bc{
@@ -437,8 +438,8 @@ ul.x-tab-strip-bottom{
 }
 
 .x-toolbar td,.x-toolbar span,.x-toolbar input,.x-toolbar div,.x-toolbar select,.x-toolbar label {
-  font-weight:normal;
-  font-size:11px;
+  /* font-weight:normal; */
+  /* font-size:11px; */
   /*   font-family:tahoma,verdana,helvetica,arial,sans-serif; */
 }
 
@@ -568,16 +569,16 @@ ul.x-tab-strip-bottom{
 }
 
 .x-grid3-row td, .x-grid3-summary-row td{
-  font-weight:normal;
+  /* font-weight:normal; */
   /* font-size:11px;
-	line-height:13px; */
+  line-height:13px; */
   /*   font-family:tahoma,verdana,helvetica,arial,sans-serif; */
 }
 
 .x-grid3-hd-row td {
-  font-weight:normal;
+  /* font-weight:normal; */
   /* font-size:11px;
-	line-height:15px; */
+  line-height:15px; */
   /*   font-family:tahoma,verdana,helvetica,arial,sans-serif; */
 }
 
@@ -714,8 +715,8 @@ td.grid-hd-group-cell {
 }
 
 .x-grid3-topbar, .x-grid3-bottombar{
-  font-weight:normal;
-  font-size:11px;
+  /* font-weight:normal; */
+  /* font-size:11px; */
   /*   font-family:tahoma,verdana,helvetica,arial,sans-serif; */
 }
 
@@ -807,8 +808,8 @@ td.grid-hd-group-cell {
 .x-grid-group-hd div.x-grid-group-title {
   background-image:url(../images/default/grid/group-collapse.gif);
   color:#3764a0;
-  font-weight:bold;
-  font-size:11px;
+  /* font-weight:bold; */
+  /* font-size:11px; */
   /*   font-family:tahoma,verdana,helvetica,arial,sans-serif; */
 }
 
@@ -830,8 +831,8 @@ td.grid-hd-group-cell {
 
 .x-grid-empty {
   color:gray;
-  font-weight:normal;
-  font-size:11px;
+  /* font-weight:normal; */
+  /* font-size:11px; */
   /*   font-family:tahoma,verdana,helvetica,arial,sans-serif; */
 }
 
@@ -845,8 +846,8 @@ td.grid-hd-group-cell {
 
 .x-dd-drag-ghost{
   color:#000;
-  font-weight:normal;
-  font-size:11px;
+  /* font-weight:normal; */
+  /* font-size:11px; */
   /*   font-family:tahoma,verdana,helvetica,arial,sans-serif; */
   border-color: #ddd #bbb #bbb #ddd;
   background-color:#fff;
@@ -890,8 +891,8 @@ td.grid-hd-group-cell {
 }
 
 .x-tree-node-loading a span{
-  font-style:italic;
   color:#444444;
+  /* font-style:italic */;
 }
 
 .x-tree-lines .x-tree-elbow{
@@ -956,8 +957,8 @@ td.grid-hd-group-cell {
 
 .x-tree-node {
   color:#000;
-  font-weight:normal;
-  font-size:11px;
+  /* font-weight:normal; */
+  /* font-size:11px; */
   /*   font-family:tahoma,verdana,helvetica,arial,sans-serif; */
 }
 
@@ -1026,8 +1027,8 @@ td.grid-hd-group-cell {
 .x-date-middle,.x-date-left,.x-date-right {
   background-image: url(../images/default/shared/hd-sprite.gif);
   color:#fff;
-  font-weight:bold;
-  font-size:11px;
+  /* font-weight:bold; */
+  /* font-size:11px; */
   /*   font-family:tahoma,verdana,helvetica,arial,sans-serif; */
 }
 
@@ -1051,7 +1052,7 @@ td.grid-hd-group-cell {
   background-color:#dfecfb;
   background-image:url(../images/default/shared/glass-bg.gif);
   border-bottom-color:#a3bad9;
-  font-weight:normal;
+  /* font-weight:normal; */
   /* font-size:10px; */
   /*   font-family:tahoma,verdana,helvetica,arial,sans-serif; */
   color:#233d6d;
@@ -1062,8 +1063,8 @@ td.grid-hd-group-cell {
 }
 
 .x-date-inner a {
-  font-weight:normal;
-  font-size:11px;
+  /* font-weight:normal; */
+  /* font-size:11px; */
   /*   font-family:tahoma,verdana,helvetica,arial,sans-serif; */
   color:#000;
 }
@@ -1083,7 +1084,7 @@ td.grid-hd-group-cell {
 }
 
 .x-date-inner .x-date-selected span{
-  font-weight:bold;
+  /* font-weight:bold; */
 }
 
 .x-date-inner .x-date-prevday a,.x-date-inner .x-date-nextday a {
@@ -1120,8 +1121,8 @@ td.grid-hd-group-cell {
 }
 
 .x-date-mp td {
-  font-weight:normal;
-  font-size:11px;
+  /* font-weight:normal; */
+  /* font-size:11px; */
   /*   font-family:tahoma,verdana,helvetica,arial,sans-serif; */
 }
 
@@ -1129,8 +1130,8 @@ td.grid-hd-group-cell {
   background-color:#083772;
   color:#fff;
   border-color: #3366cc #000055 #000055 #3366cc;
-  font-weight:normal;
-  font-size:11px;
+  /* font-weight:normal; */
+  /* font-size:11px; */
   /*   font-family:tahoma,verdana,helvetica,arial,sans-serif; */
 }
 
@@ -1175,8 +1176,8 @@ td.x-date-mp-sep {
 }
 
 .x-tip .x-tip-mc {
-  font-weight:normal;
-  font-size:11px;
+  /* font-weight:normal; */
+  /* font-size:11px; */
   /*   font-family:tahoma,verdana,helvetica,arial,sans-serif; */
 }
 .x-tip .x-tip-ml {
@@ -1184,15 +1185,15 @@ td.x-date-mp-sep {
 }
 
 .x-tip .x-tip-header-text {
-  font-weight:bold;
-  font-size:11px;
+  /* font-weight:bold; */
+  /* font-size:11px; */
   /*   font-family:tahoma,verdana,helvetica,arial,sans-serif; */
   color:#444;
 }
 
 .x-tip .x-tip-body {
-  font-weight:normal;
-  font-size:11px;
+  /* font-weight:normal; */
+  /* font-size:11px; */
   /*   font-family:tahoma,verdana,helvetica,arial,sans-serif; */
   color:#444;
 }
@@ -1225,8 +1226,8 @@ td.x-date-mp-sep {
 }
 
 .x-menu-list-item {
-  font-weight:normal;
-  font-size:11px;
+  /* font-weight:normal; */
+  /* font-size:11px; */
   /*   font-family:tahoma,verdana,helvetica,arial,sans-serif; */
 }
 
@@ -1320,7 +1321,7 @@ a.x-menu-item {
 
 .x-box-mc h3 {
 /*  font-size:14px; */
-  font-weight:bold;
+  /* font-weight:bold; */
 }
 
 .x-box-mr {
@@ -1366,7 +1367,7 @@ a.x-menu-item {
 .x-combo-list {
   border-color:#98c0f4;
   background-color:#ddecfe;
-  font-weight:normal;
+  /* font-weight:normal; */
 /*  font-size:12px; */
   /*   font-family:tahoma,verdana,helvetica,arial,sans-serif; */
 }
@@ -1376,8 +1377,8 @@ a.x-menu-item {
 }
 
 .x-combo-list-hd {
-  font-weight:bold;
-  font-size:11px;
+  /* font-weight:bold; */
+  /* font-size:11px; */
   /*   font-family:tahoma,verdana,helvetica,arial,sans-serif; */
   color:#15428b;
   background-image: url(../images/default/layout/panel-title-light-bg.gif);
@@ -1402,8 +1403,8 @@ a.x-menu-item {
 }
 
 .x-combo-list-small {
-  font-weight:normal;
-  font-size:11px;
+  /* font-weight:normal; */
+  /* font-size:11px; */
   /*   font-family:tahoma,verdana,helvetica,arial,sans-serif; */
 }
 
@@ -1413,8 +1414,8 @@ a.x-menu-item {
 
 .x-panel-header {
   color:#15428b;
-  font-weight:bold;
-  font-size:11px;
+  /* font-weight:bold; */
+  /* font-size:11px; */
   /*   font-family:tahoma,verdana,helvetica,arial,sans-serif; */
   border-color:#99bbe8;
   background-image: url(../images/default/panel/white-top-bottom.gif);
@@ -1439,8 +1440,8 @@ a.x-menu-item {
 
 .x-panel-tl .x-panel-header {
   color:#15428b;
-  font-weight:bold;
-  font-size:11px;
+  /* font-weight:bold; */
+  /* font-size:11px; */
   /*   font-family:tahoma,verdana,helvetica,arial,sans-serif; */
 }
 
@@ -1458,14 +1459,14 @@ a.x-menu-item {
 }
 
 .x-panel-mc {
-  font-weight:normal;
-  font-size:11px;
+  /* font-weight:normal; */
+  /* font-size:11px; */
   /*   font-family:tahoma,verdana,helvetica,arial,sans-serif; */
   background-color:#dfe8f6;
 }
 
 .x-panel-ml {
-  background-color: #fff;
+  background-color:#fff;
   background-image:url(../images/default/panel/left-right.gif);
 }
 
@@ -1490,8 +1491,8 @@ a.x-menu-item {
 }
 
 .x-panel-fbar td,.x-panel-fbar span,.x-panel-fbar input,.x-panel-fbar div,.x-panel-fbar select,.x-panel-fbar label {
-  font-weight:normal;
-  font-size:11px;
+  /* font-weight:normal; */
+  /* font-size:11px; */
   /*   font-family:tahoma,verdana,helvetica,arial,sans-serif; */
 }
 .x-window-proxy {
@@ -1501,8 +1502,8 @@ a.x-menu-item {
 
 .x-window-tl .x-window-header {
   color:#15428b;
-  font-weight:bold;
-  font-size:11px;
+  /* font-weight:bold; */
+/*  font-size:11px;*/
   /*   font-family:tahoma,verdana,helvetica,arial,sans-serif; */
 }
 
@@ -1532,8 +1533,8 @@ a.x-menu-item {
 
 .x-window-mc {
   border-color:#99bbe8;
-  font-weight:normal;
-  font-size:11px;
+  /* font-weight:normal; */
+  /* font-size:11px; */
   /*   font-family:tahoma,verdana,helvetica,arial,sans-serif; */
   background-color:#dfe8f6;
 }
@@ -1614,7 +1615,7 @@ body.x-body-masked .x-window-plain .x-window-mc {
 
 .x-accordion-hd {
   color:#222;
-  font-weight:normal;
+  /* font-weight:normal; */
   background-image: url(../images/default/panel/light-hd.gif);
 }
 
@@ -1674,8 +1675,8 @@ body.x-body-masked .x-window-plain .x-window-mc {
 }
 
 .x-progress-text {
-  font-size:11px;
-  font-weight:bold;
+  /* font-size:11px; */
+  /* font-weight:bold; */
   color:#fff;
 }
 
@@ -1690,14 +1691,14 @@ body.x-body-masked .x-window-plain .x-window-mc {
 
 .x-list-header-inner div em {
   border-left-color:#ddd;
-  font-weight:normal;
-  font-size:11px;
+  /* font-weight:normal; */
+  /* font-size:11px; */
   /*   font-family:tahoma,verdana,helvetica,arial,sans-serif; */
 }
 
 .x-list-body dt em {
-  font-weight:normal;
-  font-size:11px;
+  /* font-weight:normal; */
+  /* font-size:11px; */
   /*   font-family:tahoma,verdana,helvetica,arial,sans-serif; */
 }
 
@@ -1741,7 +1742,7 @@ body.x-body-masked .x-window-plain .x-window-mc {
 }
 
 .x-window-dlg .ext-mb-textarea {
-  font-weight:normal;
+  /* font-weight:normal; */
 /*  font-size:12px; */
   /*   font-family:tahoma,verdana,helvetica,arial,sans-serif; */
 }
@@ -1784,48 +1785,60 @@ body.x-body-masked .x-window-plain .x-window-mc {
 
 .x-date-inner th, .x-date-mmenu .x-menu-item,
 .x-fs10 {
-	font-size:10px;
+  font-size:10px;
 }
-
+.ext-el-mask-msg div, .loading-indicator, .x-tab-strip span.x-tab-strip-text, .x-form-invalid-msg, .x-small-editor .x-form-field, .ext-webkit .x-small-editor .x-form-field, .x-fieldset legend,
+.x-btn, x-btn button, .x-toolbar td,.x-toolbar span,.x-toolbar input,.x-toolbar div,.x-toolbar select,.x-toolbar label, .x-grid3-topbar, .x-grid3-bottombar, .x-grid-group-hd div.x-grid-group-title,
+.x-grid-empty, .x-dd-drag-ghost, .x-tree-node, .x-date-middle,.x-date-left,.x-date-right, .x-date-inner a, .x-date-mp td, .x-date-mp-btns button, .x-tip .x-tip-mc, .x-tip .x-tip-header-text,
+.x-tip .x-tip-body, .x-menu-list-item, .x-combo-list-hd, .x-combo-list-small, .x-panel-header, .x-panel-tl .x-panel-header, .x-panel-mc, .x-panel-fbar td,.x-panel-fbar span,.x-panel-fbar input,
+.x-panel-fbar div,.x-panel-fbar select,.x-panel-fbar label, .x-window-tl .x-window-header, .x-window-mc, .x-progress-text, .x-list-header-inner div em, .x-list-body dt em,
 .x-fs11 {
-	font-size:11px;	
+  font-size:11px;
 }
 
-.x-form-field, .x-form-grow-sizer, .x-form-item, .x-box-mc, .x-combo-list, .x-window-dlg .ext-mb-text, .x-window-dlg .x-window-header-text, .x-window-dlg .ext-mb-textarea, 
-.x-panel-mc, 
+.x-form-field, .x-form-grow-sizer, .x-form-item, .x-box-mc, .x-combo-list, .x-window-dlg .ext-mb-text, .x-window-dlg .x-window-header-text, .x-window-dlg .ext-mb-textarea,  
 .x-fs12 {
-	font-size:12px;
+  font-size:12px;
 }
 
 .x-box-mc h3,
 .x-fs14 {
-	font-size:14px;	
+  font-size:14px; 
 }
 
 .x-grid3-row td, .x-grid3-summary-row td,
-.x-fs11-13 {	
-	font-size:11px;
-	line-height:13px;
+.x-fs11-13 {  
+  font-size:11px;
+  line-height:13px;
 }
 
 .x-grid3-hd-row td,
 .x-fs11-15 {
-	font-size:11px;
-	line-height:15px;	
+  font-size:11px;
+  line-height:15px; 
 }
 
+.x-tree-node-loading a span,
 .x-italic {
-	font-style:italic;
+  font-style:italic;
 }
 
+.x-btn em,
 .x-not-italic {
-	font-style:normal;
+  font-style:normal;
 }
 
+.x-tab-strip-active span.x-tab-strip-text, .x-fieldset legend, .x-grid-group-hd div.x-grid-group-title, .x-date-middle,.x-date-left,.x-date-right, .x-date-inner .x-date-selected span,
+.x-tip .x-tip-header-text, .x-box-mc h3, .x-combo-list-hd, .x-panel-header, .x-panel-tl .x-panel-header, .x-window-tl .x-window-header, .x-progress-text,
 .x-bold {
-	font-weight:bold;
+  font-weight:bold;
 }
 
+.ext-el-mask-msg div, .x-tab-strip span.x-tab-strip-text, .x-form-field, .x-form-grow-sizer, .x-form-item, .x-form-invalid-msg, .x-small-editor .x-form-field,
+.ext-webkit .x-small-editor .x-form-field, .x-btn, .x-btn button, .x-btn em, .x-toolbar td,.x-toolbar span,.x-toolbar input,.x-toolbar div,.x-toolbar select,.x-toolbar label, .x-grid3-row td,
+.x-grid3-summary-row td, .x-grid3-hd-row td, .x-grid3-topbar, .x-grid3-bottombar, .x-grid-empty, .x-dd-drag-ghost, .x-tree-node, .x-date-inner th, .x-date-inner a, .x-date-mp td,
+.x-date-mp-btns button, .x-tip .x-tip-mc, .x-tip .x-tip-body, .x-menu-list-item, .x-combo-list, .x-combo-list-small, .x-panel-mc, .x-panel-fbar td, .x-panel-fbar span, .x-panel-fbar input,
+.x-panel-fbar div,.x-panel-fbar select,.x-panel-fbar label, .x-window-mc. .x-accordion-hd, .x-list-header-inner div em, .x-list-body dt em, .x-window-dlg .ext-mb-textarea,
 .x-not-bold {
-	font-weight:normal;
+  font-weight:normal;
 }
