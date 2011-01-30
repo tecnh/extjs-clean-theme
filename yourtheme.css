@@ -5,7 +5,7 @@
  * http://www.sencha.com/license
  */
 .ext-el-mask {
-  background-color: #ccc;
+  background-color:#ccc;
 }
 
 .ext-el-mask-msg {
@@ -14,7 +14,7 @@
   background-image:url(../images/default/box/tb-blue.gif);
 }
 .ext-el-mask-msg div {
-  background-color: #eee;
+  background-color:#eee;
   border-color:#a3bad9;
   color:#222;
   /* font-weight:normal; */
@@ -36,7 +36,7 @@
 }
 
 .x-splitbar-proxy {
-  background-color: #aaa;
+  background-color:#aaa;
 }
 
 .x-color-palette a {
@@ -45,12 +45,12 @@
 
 .x-color-palette a:hover, .x-color-palette a.x-color-palette-sel {
   border-color:#8bb8f3;
-  background-color: #deecfd;
+  background-color:#deecfd;
 }
 
 /*
 .x-color-palette em:hover, .x-color-palette span:hover{   
-  background-color: #deecfd;
+  background-color:#deecfd;
 }
 */
 
@@ -80,10 +80,10 @@
 }
 
 .x-spotlight {
-  background-color: #ccc;
+  background-color:#ccc;
 }
 .x-tab-panel-header, .x-tab-panel-footer {
-  background-color: #deecfd;
+  background-color:#deecfd;
   border-color:#8db2e3;
   overflow:hidden;
   zoom:1;
@@ -108,7 +108,7 @@ ul.x-tab-strip-bottom{
 .x-tab-panel-header-plain .x-tab-strip-spacer,
 .x-tab-panel-footer-plain .x-tab-strip-spacer {
   border-color:#8db2e3;
-  background-color: #deecfd;
+  background-color:#deecfd;
 }
 
 .x-tab-strip span.x-tab-strip-text {
@@ -225,7 +225,7 @@ ul.x-tab-strip-bottom{
 
 .x-form-check-group-label {
   border-bottom: 1px solid #99bbe8;
-  color: #15428b;
+  color:#15428b;
 }
 
 .x-editor .x-form-check-wrap {
@@ -393,7 +393,7 @@ ul.x-tab-strip-bottom{
 }
 
 .x-btn-group-header {
-  color: #3e6aaa;
+  color:#3e6aaa;
 }
 
 .x-btn-group-tc {
@@ -589,7 +589,7 @@ ul.x-tab-strip-bottom{
 }
 
 .x-grid-row-loading {
-  background-color: #fff;
+  background-color:#fff;
   background-image:url(../images/default/shared/loading-balls.gif);
 }
 
@@ -680,13 +680,13 @@ td.grid-hd-group-cell {
 }
 
 .x-grid3-row-selected {
-  background-color: #dfe8f6 !important;
+  background-color:#dfe8f6 !important;
   background-image: none;
   border-color:#a3bae9;
 }
 
 .x-grid3-cell-selected{
-  background-color: #b8cfee !important;
+  background-color:#b8cfee !important;
   color:#000;
 }
 
@@ -849,7 +849,7 @@ td.grid-hd-group-cell {
   /* font-weight:normal; */
   /* font-size:11px; */
   /*   font-family:tahoma,verdana,helvetica,arial,sans-serif; */
-  border-color: #ddd #bbb #bbb #ddd;
+  border-color:#ddd #bbb #bbb #ddd;
   background-color:#fff;
 }
 
@@ -891,8 +891,8 @@ td.grid-hd-group-cell {
 }
 
 .x-tree-node-loading a span{
-  color:#444444;
   /* font-style:italic */;
+  color:#444;
 }
 
 .x-tree-lines .x-tree-elbow{
@@ -996,11 +996,11 @@ td.grid-hd-group-cell {
 }
 
 .x-tree-node .x-tree-node-over {
-  background-color: #eee;
+  background-color:#eee;
 }
 
 .x-tree-node .x-tree-selected {
-  background-color: #d9e8fb;
+  background-color:#d9e8fb;
 }
 
 .x-tree-drop-ok-append .x-dd-drop-icon{
@@ -1020,7 +1020,7 @@ td.grid-hd-group-cell {
 }
 
 .x-date-picker {
-  border-color: #1b376c;
+  border-color:#1b376c;
   background-color:#fff;
 }
 
@@ -1129,19 +1129,19 @@ td.grid-hd-group-cell {
 .x-date-mp-btns button {
   background-color:#083772;
   color:#fff;
-  border-color: #3366cc #000055 #000055 #3366cc;
+  border-color:#3366cc #000055 #000055 #3366cc;
   /* font-weight:normal; */
   /* font-size:11px; */
   /*   font-family:tahoma,verdana,helvetica,arial,sans-serif; */
 }
 
 .x-date-mp-btns {
-  background-color: #dfecfb;
+  background-color:#dfecfb;
   background-image: url(../images/default/shared/glass-bg.gif);
 }
 
 .x-date-mp-btns td {
-  border-top-color: #c5d2df;
+  border-top-color:#c5d2df;
 }
 
 td.x-date-mp-month a,td.x-date-mp-year a {
@@ -1150,11 +1150,11 @@ td.x-date-mp-month a,td.x-date-mp-year a {
 
 td.x-date-mp-month a:hover,td.x-date-mp-year a:hover {
   color:#15428b;
-  background-color: #ddecfe;
+  background-color:#ddecfe;
 }
 
 td.x-date-mp-sel a {
-  background-color: #dfecfb;
+  background-color:#dfecfb;
   background-image: url(../images/default/shared/glass-bg.gif);
   border-color:#8db2e3;
 }
@@ -1181,7 +1181,7 @@ td.x-date-mp-sep {
   /*   font-family:tahoma,verdana,helvetica,arial,sans-serif; */
 }
 .x-tip .x-tip-ml {
-  background-color: #fff;
+  background-color:#fff;
 }
 
 .x-tip .x-tip-header-text {
@@ -1246,7 +1246,7 @@ a.x-menu-item {
 
 .x-menu-item-active {
   background-image: url(../images/default/menu/item-over.gif);
-  background-color: #dbecf4;
+  background-color:#dbecf4;
   border-color:#aaccf6;
 }
 
@@ -1276,7 +1276,7 @@ a.x-menu-item {
 }
 
 .x-date-menu, .x-color-menu{
-  background-color: #fff !important;
+  background-color:#fff !important;
 }
 
 .x-menu .x-date-picker{
@@ -1312,10 +1312,10 @@ a.x-menu-item {
 }
 
 .x-box-mc {
-  background-color: #eee;
+  background-color:#eee;
   background-image: url(../images/default/box/tb.gif);
   /*   font-family:tahoma,verdana,helvetica,arial,sans-serif; */
-  color: #393939;
+  color:#393939;
 /*  font-size:12px; */
 }
 
@@ -1349,11 +1349,11 @@ a.x-menu-item {
 }
 
 .x-box-blue .x-box-mc {
-  background-color: #c3daf9;
+  background-color:#c3daf9;
 }
 
 .x-box-blue .x-box-mc h3 {
-  color: #17385b;
+  color:#17385b;
 }
 
 .x-box-blue .x-box-ml {
@@ -1409,7 +1409,7 @@ a.x-menu-item {
 }
 
 .x-panel {
-  border-color: #99bbe8;
+  border-color:#99bbe8;
 }
 
 .x-panel-header {
@@ -1568,16 +1568,16 @@ a.x-menu-item {
 }
 
 .x-window-plain .x-window-mc {
-  background-color: #ccd9e8;
-  border-color: #a3bae9 #dfe8f6 #dfe8f6 #a3bae9;
+  background-color:#ccd9e8;
+  border-color:#a3bae9 #dfe8f6 #dfe8f6 #a3bae9;
 }
 
 .x-window-plain .x-window-body {
-  border-color: #dfe8f6 #a3bae9 #a3bae9 #dfe8f6;
+  border-color:#dfe8f6 #a3bae9 #a3bae9 #dfe8f6;
 }
 
 body.x-body-masked .x-window-plain .x-window-mc {
-  background-color: #ccd9e8;
+  background-color:#ccd9e8;
 }
 
 .x-html-editor-wrap {
@@ -1717,7 +1717,7 @@ body.x-body-masked .x-window-plain .x-window-mc {
 
 .x-list-header-inner em.sort-asc, .x-list-header-inner em.sort-desc {
   background-image:url(../images/default/grid/sort-hd.gif);
-  border-color: #99bbe8;
+  border-color:#99bbe8;
 }
 
 .x-slider-horz, .x-slider-horz .x-slider-end, .x-slider-horz .x-slider-inner {
