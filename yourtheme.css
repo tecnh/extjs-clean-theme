@@ -569,13 +569,15 @@ ul.x-tab-strip-bottom{
 
 .x-grid3-row td, .x-grid3-summary-row td{
   font-weight:normal;
-  font-size:11px/13px;
+  font-size:11px;
+	line-height:13px;
   font-family:tahoma,verdana,helvetica,arial,sans-serif;
 }
 
 .x-grid3-hd-row td {
   font-weight:normal;
-  font-size:11px/15px;
+  font-size:11px;
+	line-height:15px;
   font-family:tahoma,verdana,helvetica,arial,sans-serif;
 }
 
@@ -1789,11 +1791,13 @@ body.x-body-masked .x-window-plain .x-window-mc {
 }
 
 .fs11-13 {	
-	font-size:11px/13px;
+	font-size:11px;
+	line-height:13px;
 }
 
 .fs11-15 {
-	font-size:11px/15px;	
+	font-size:11px;
+	line-height:15px;	
 }
 
 .italic {
