@@ -1,0 +1,13 @@
+This is a restructured version of the file mytheme.css intended to be functionally identical except for a few typeface & size standardizations and even these can be removed if you wish (see commit history & in file comments)
+
+The file has been rebuilt with three things in mind:
+
+1. Make it easy to change the typeface
+2. Make it easier to play with the colors
+3. Standardize typefaces
+
+For more details see the Github repository at https://github.com/tecnh/extjs-clean-theme
+
+* FAQ: https://github.com/tecnh/extjs-clean-theme/wiki/FAQ
+* Screenshot: https://github.com/tecnh/extjs-clean-theme/wiki/Sample
+
